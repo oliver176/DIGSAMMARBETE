@@ -2561,3 +2561,510 @@ Script Stack (0 frames):
 [2019.12.10-13.43.31:964][726]LogSavePackage: Moving '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Saved/ObjectiveChange1B3FF194404BCBD23DC412A1DE72BB9A.tmp' to '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Content/ThirdPersonBP/Blueprints/ObjectiveChange.uasset'
 [2019.12.10-13.43.35:448][927]BlueprintLog: New page: Compile ObjectiveChange
 [2019.12.10-13.43.35:832][927]LogUObjectHash: Compacting FUObjectHashTables data took   7.68ms
+[2019.12.10-13.44.10:036][336]LogUObjectHash: Compacting FUObjectHashTables data took   6.43ms
+[2019.12.10-13.44.10:483][336]LogSavePackage: Moving '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Saved/ThirdPersonExampleMap_Auto0893F131E40B1A87E60324A86D99A57BF.tmp' to '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto0.umap'
+[2019.12.10-13.44.10:488][336]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.519
+[2019.12.10-13.44.10:488][336]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.519
+[2019.12.10-13.44.10:490][336]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2019.12.10-13.44.10:553][336]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2019.12.10-13.44.10:553][336]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2019.12.10-13.44.10:630][336]LogSavePackage: Moving '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Saved/ThirdPersonCharacter_Auto0FE5FA8254AC3B9A9B24A42946DEF0851.tmp' to '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto0.uasset'
+[2019.12.10-13.44.10:631][336]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/SurvivalSaveGame] ([1] browsable assets)...
+[2019.12.10-13.44.10:631][336]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/SurvivalSaveGame]
+[2019.12.10-13.44.10:644][336]LogSavePackage: Moving '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Saved/SurvivalSaveGame_Auto0D0BC4FD7464970DD992EA0B0B4514579.tmp' to '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/SurvivalSaveGame_Auto0.uasset'
+[2019.12.10-13.44.10:645][336]LogFileHelpers: Auto-saving content packages took 0.156
+[2019.12.10-13.45.55:173][299]BlueprintLog: New page: Compile ObjectiveChange
+[2019.12.10-13.45.55:546][299]LogUObjectHash: Compacting FUObjectHashTables data took   6.15ms
+[2019.12.10-13.45.56:135][326]LogSavePackage: Moving '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Saved/ObjectiveChangeA68B9B7C4A4EC793D1E8AC865B10869A.tmp' to '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Content/ThirdPersonBP/Blueprints/ObjectiveChange.uasset'
+[2019.12.10-13.46.26:788][ 74]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UGameplayStatics::SaveGameToSlot' [Det gick inte att hitta elementet.]
+[2019.12.10-13.47.42:015][339]LogEditorTransaction: Undo Move Node
+[2019.12.10-13.47.42:038][339]LogMaterial: Display: Missing cached shader map for material Hunger_Mat, compiling. 
+[2019.12.10-13.47.42:063][339]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2019.12.10-13.47.42:063][339]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 20
+[2019.12.10-13.47.42:063][339]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 19
+[2019.12.10-13.47.42:547][363]LogEditorTransaction: Undo Create Pin Link
+[2019.12.10-13.47.42:570][363]LogMaterial: Display: Missing cached shader map for material Hunger_Mat, compiling. 
+[2019.12.10-13.47.42:993][385]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 21
+[2019.12.10-13.47.43:010][386]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 20
+[2019.12.10-13.47.43:685][425]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 19
+[2019.12.10-13.47.43:787][431]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 18
+[2019.12.10-13.47.44:026][445]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 17
+[2019.12.10-13.47.44:423][468]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 16
+[2019.12.10-13.47.44:439][469]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2019.12.10-13.47.44:461][470]LogEditorTransaction: Undo Move Node
+[2019.12.10-13.47.44:483][470]LogMaterial: Display: Missing cached shader map for material Hunger_Mat, compiling. 
+[2019.12.10-13.47.44:801][486]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2019.12.10-13.47.45:142][506]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 20
+[2019.12.10-13.47.45:278][514]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 19
+[2019.12.10-13.47.45:516][528]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 18
+[2019.12.10-13.47.45:853][546]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 17
+[2019.12.10-13.47.45:937][551]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 16
+[2019.12.10-13.47.46:334][574]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2019.12.10-13.47.46:532][585]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 14
+[2019.12.10-13.47.46:617][590]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2019.12.10-13.47.46:774][599]LogEditorTransaction: Undo Create Pin Link
+[2019.12.10-13.47.46:797][599]LogMaterial: Display: Missing cached shader map for material Hunger_Mat, compiling. 
+[2019.12.10-13.47.46:885][602]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 21
+[2019.12.10-13.47.46:935][605]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 20
+[2019.12.10-13.47.47:239][623]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 19
+[2019.12.10-13.47.47:297][626]LogEditorTransaction: Undo Move Node
+[2019.12.10-13.47.47:318][626]LogMaterial: Display: Missing cached shader map for material Hunger_Mat, compiling. 
+[2019.12.10-13.47.47:453][632]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 21
+[2019.12.10-13.47.47:794][652]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 20
+[2019.12.10-13.47.47:794][652]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 19
+[2019.12.10-13.47.47:818][653]LogEditorTransaction: Undo Add Node
+[2019.12.10-13.47.47:839][653]LogMaterial: Display: Missing cached shader map for material Hunger_Mat, compiling. 
+[2019.12.10-13.47.48:141][669]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 21
+[2019.12.10-13.47.48:350][681]LogEditorTransaction: Undo Delete current selection
+[2019.12.10-13.47.48:373][681]LogMaterial: Display: Missing cached shader map for material Hunger_Mat, compiling. 
+[2019.12.10-13.47.48:389][681]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 21
+[2019.12.10-13.47.48:430][681]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 20
+[2019.12.10-13.47.48:804][704]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 19
+[2019.12.10-13.47.49:110][722]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 18
+[2019.12.10-13.47.49:212][728]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 17
+[2019.12.10-13.47.49:486][744]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 16
+[2019.12.10-13.47.49:851][765]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2019.12.10-13.47.49:937][770]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 14
+[2019.12.10-13.47.50:110][780]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 13
+[2019.12.10-13.47.50:322][792]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2019.12.10-13.47.50:473][796]LogSavePackage: Moving '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Saved/ObjectiveChange9320409A4621494195FBF0B9AAB9C0E1.tmp' to '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Content/ThirdPersonBP/Blueprints/ObjectiveChange.uasset'
+[2019.12.10-13.47.50:833][816]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11
+[2019.12.10-13.47.50:971][824]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 10
+[2019.12.10-13.47.51:672][864]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 9
+[2019.12.10-13.47.51:842][874]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2019.12.10-13.47.52:350][904]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2019.12.10-13.47.52:897][936]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2019.12.10-13.47.53:090][947]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2019.12.10-13.47.53:142][950]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2019.12.10-13.47.54:182][ 10]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2019.12.10-13.47.54:397][ 22]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2019.12.10-13.47.54:961][ 54]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2019.12.10-13.47.56:160][105]MaterialEditorStats: Base pass shader: 120 instructions
+[2019.12.10-13.47.56:160][105]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2019.12.10-13.47.56:160][105]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2019.12.10-13.47.56:160][105]MaterialEditorStats: Texture samplers: 4/16
+[2019.12.10-13.47.56:160][105]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.12.10-13.47.56:160][105]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.12.10-13.48.20:547][490]BlueprintLog: New page: Compile ObjectiveChange
+[2019.12.10-13.48.20:922][490]LogUObjectHash: Compacting FUObjectHashTables data took   7.63ms
+[2019.12.10-13.48.21:540][508]LogSavePackage: Moving '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Saved/ObjectiveChange0393068B45A93DE301F6878D1499F7C1.tmp' to '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Content/ThirdPersonBP/Blueprints/ObjectiveChange.uasset'
+[2019.12.10-13.48.24:563][685]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.10-13.48.24:592][685]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.10-13.48.24:592][685]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.10-13.48.24:592][685]PIE: New page: PIE session: ThirdPersonExampleMap (10 dec 2019 15:48:24)
+[2019.12.10-13.48.24:593][685]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.12.10-13.48.24:650][685]LogPlayLevel: PIE: StaticDuplicateObject took: (0.056600s)
+[2019.12.10-13.48.24:651][685]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.12.10-13.48.24:651][685]LogPlayLevel: PIE: World Init took: (0.001120s)
+[2019.12.10-13.48.24:651][685]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.057875s)
+[2019.12.10-13.48.24:715][685]LogUObjectHash: Compacting FUObjectHashTables data took   6.49ms
+[2019.12.10-13.48.24:720][685]LogInit: XAudio2 using 'Högtalare / Hörlurar (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.10-13.48.24:790][685]LogInit: FAudioDevice initialized.
+[2019.12.10-13.48.24:800][685]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.10-13.48.24:804][685]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.12.10-14.48.24
+[2019.12.10-13.48.24:804][685]LogWorld: Bringing up level for play took: 0.003048
+[2019.12.10-13.48.24:805][685]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2019.12.10-13.48.24:808][685]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,229
+[2019.12.10-13.48.24:808][685]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.10-13.48.24:822][686]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 16
+[2019.12.10-13.48.25:030][688]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 17
+[2019.12.10-13.48.25:242][697]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 18
+[2019.12.10-13.48.25:442][709]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 19
+[2019.12.10-13.48.25:642][721]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 20
+[2019.12.10-13.48.25:842][733]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 21
+[2019.12.10-13.48.26:043][745]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 22
+[2019.12.10-13.48.26:242][757]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 23
+[2019.12.10-13.48.26:443][769]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 24
+[2019.12.10-13.48.26:642][781]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 25
+[2019.12.10-13.48.26:842][793]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 26
+[2019.12.10-13.48.27:043][805]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 27
+[2019.12.10-13.48.27:242][817]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 28
+[2019.12.10-13.48.27:443][829]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 29
+[2019.12.10-13.48.27:643][841]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 30
+[2019.12.10-13.48.27:842][853]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 31
+[2019.12.10-13.48.28:042][865]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 32
+[2019.12.10-13.48.28:243][877]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 33
+[2019.12.10-13.48.28:442][889]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 34
+[2019.12.10-13.48.28:643][901]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 35
+[2019.12.10-13.48.28:842][913]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 36
+[2019.12.10-13.48.29:043][925]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 37
+[2019.12.10-13.48.29:243][937]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 38
+[2019.12.10-13.48.29:443][949]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 39
+[2019.12.10-13.48.29:642][961]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 40
+[2019.12.10-13.48.29:843][973]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 41
+[2019.12.10-13.48.30:042][985]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 42
+[2019.12.10-13.48.30:243][997]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 43
+[2019.12.10-13.48.30:442][  9]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 44
+[2019.12.10-13.48.30:643][ 21]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 45
+[2019.12.10-13.48.30:843][ 33]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 46
+[2019.12.10-13.48.31:042][ 45]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 47
+[2019.12.10-13.48.31:243][ 57]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 48
+[2019.12.10-13.48.31:442][ 69]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 49
+[2019.12.10-13.48.31:643][ 81]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 50
+[2019.12.10-13.48.31:842][ 93]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 51
+[2019.12.10-13.48.32:043][105]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 52
+[2019.12.10-13.48.32:242][117]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 53
+[2019.12.10-13.48.32:443][129]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 54
+[2019.12.10-13.48.32:642][141]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 55
+[2019.12.10-13.48.32:843][153]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 56
+[2019.12.10-13.48.33:043][165]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 57
+[2019.12.10-13.48.33:243][177]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 58
+[2019.12.10-13.48.33:443][189]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 59
+[2019.12.10-13.48.33:643][201]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 60
+[2019.12.10-13.48.33:843][213]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 61
+[2019.12.10-13.48.34:043][225]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 62
+[2019.12.10-13.48.34:243][237]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 63
+[2019.12.10-13.48.34:443][249]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 64
+[2019.12.10-13.48.34:643][261]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 65
+[2019.12.10-13.48.34:844][273]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 66
+[2019.12.10-13.48.35:043][285]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 67
+[2019.12.10-13.48.35:243][297]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 68
+[2019.12.10-13.48.35:385][305]LogBlueprintUserMessages: [ObjectiveChange_2] true
+[2019.12.10-13.48.35:444][309]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 69
+[2019.12.10-13.48.35:643][321]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 70
+[2019.12.10-13.48.35:843][333]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 71
+[2019.12.10-13.48.36:044][345]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 72
+[2019.12.10-13.48.36:243][357]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 73
+[2019.12.10-13.48.36:443][369]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 74
+[2019.12.10-13.48.36:644][381]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 75
+[2019.12.10-13.48.36:843][393]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 76
+[2019.12.10-13.48.37:043][405]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 77
+[2019.12.10-13.48.37:243][417]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 78
+[2019.12.10-13.48.37:443][429]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 79
+[2019.12.10-13.48.37:643][441]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 80
+[2019.12.10-13.48.37:843][453]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 81
+[2019.12.10-13.48.38:043][465]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 82
+[2019.12.10-13.48.38:243][477]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 83
+[2019.12.10-13.48.38:444][489]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 84
+[2019.12.10-13.48.38:643][501]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 85
+[2019.12.10-13.48.38:843][513]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 86
+[2019.12.10-13.48.38:868][514]LogBlueprintUserMessages: [ObjectiveChange_2] true
+[2019.12.10-13.48.39:043][525]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 87
+[2019.12.10-13.48.39:244][537]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 88
+[2019.12.10-13.48.39:443][549]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 89
+[2019.12.10-13.48.39:643][561]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 90
+[2019.12.10-13.48.39:844][573]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 91
+[2019.12.10-13.48.40:043][585]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 92
+[2019.12.10-13.48.40:244][597]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 93
+[2019.12.10-13.48.40:443][609]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 94
+[2019.12.10-13.48.40:644][621]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 95
+[2019.12.10-13.48.40:843][633]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 96
+[2019.12.10-13.48.41:044][645]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 97
+[2019.12.10-13.48.41:243][657]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 98
+[2019.12.10-13.48.41:443][669]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 99
+[2019.12.10-13.48.41:644][681]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 100
+[2019.12.10-13.48.41:663][682]LogBlueprintUserMessages: [ObjectiveChange_2] true
+[2019.12.10-13.48.42:313][721]LogBlueprintUserMessages: [ObjectiveChange_2] true
+[2019.12.10-13.48.47:419][ 15]LogBlueprintUserMessages: [ObjectiveChange_2] true
+[2019.12.10-13.48.52:335][310]LogBlueprintUserMessages: [ObjectiveChange_2] true
+[2019.12.10-13.48.52:367][312]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 99
+[2019.12.10-13.48.52:567][324]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 98
+[2019.12.10-13.48.52:767][336]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 97
+[2019.12.10-13.48.52:967][348]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 96
+[2019.12.10-13.48.53:167][360]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 95
+[2019.12.10-13.48.53:367][372]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 94
+[2019.12.10-13.48.53:568][384]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 93
+[2019.12.10-13.48.53:767][396]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 92
+[2019.12.10-13.48.53:967][408]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 91
+[2019.12.10-13.48.54:167][420]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 90
+[2019.12.10-13.48.54:367][432]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 89
+[2019.12.10-13.48.54:568][444]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 88
+[2019.12.10-13.48.54:767][456]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 87
+[2019.12.10-13.48.54:968][468]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 86
+[2019.12.10-13.48.55:168][480]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 85
+[2019.12.10-13.48.55:369][492]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 84
+[2019.12.10-13.48.55:567][504]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 83
+[2019.12.10-13.48.55:768][516]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 82
+[2019.12.10-13.48.55:835][520]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 83
+[2019.12.10-13.48.56:034][532]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 84
+[2019.12.10-13.48.56:234][544]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 85
+[2019.12.10-13.48.56:434][556]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 86
+[2019.12.10-13.48.56:634][568]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 87
+[2019.12.10-13.48.56:834][580]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 88
+[2019.12.10-13.48.57:034][592]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 89
+[2019.12.10-13.48.57:234][604]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 90
+[2019.12.10-13.48.57:434][616]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 91
+[2019.12.10-13.48.57:635][628]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 92
+[2019.12.10-13.48.57:818][639]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 91
+[2019.12.10-13.48.58:018][651]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 90
+[2019.12.10-13.48.58:218][663]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 89
+[2019.12.10-13.48.58:418][675]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 88
+[2019.12.10-13.48.58:617][687]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 87
+[2019.12.10-13.48.58:704][692]LogBlueprintUserMessages: [ObjectiveChange_2] true
+[2019.12.10-13.48.58:818][699]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 86
+[2019.12.10-13.48.59:017][711]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 85
+[2019.12.10-13.48.59:218][723]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 84
+[2019.12.10-13.48.59:284][727]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 85
+[2019.12.10-13.48.59:484][739]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 86
+[2019.12.10-13.48.59:684][751]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 87
+[2019.12.10-13.48.59:884][763]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 88
+[2019.12.10-13.49.00:085][775]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 89
+[2019.12.10-13.49.00:285][787]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 90
+[2019.12.10-13.49.00:485][799]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 91
+[2019.12.10-13.49.00:685][811]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 92
+[2019.12.10-13.49.00:818][819]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 91
+[2019.12.10-13.49.01:019][831]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 90
+[2019.12.10-13.49.01:218][843]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 89
+[2019.12.10-13.49.01:419][855]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 88
+[2019.12.10-13.49.01:618][867]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 87
+[2019.12.10-13.49.01:635][868]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 88
+[2019.12.10-13.49.01:835][880]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 89
+[2019.12.10-13.49.02:035][892]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 90
+[2019.12.10-13.49.02:235][904]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 91
+[2019.12.10-13.49.02:435][916]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 92
+[2019.12.10-13.49.02:470][918]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.10-13.49.02:470][918]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.10-13.49.02:470][918]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.12.10-13.49.02:470][918]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-13.49.02:495][918]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.10-13.49.02:496][918]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.10-13.49.02:564][918]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.10-13.49.02:573][918]LogUObjectHash: Compacting FUObjectHashTables data took   5.39ms
+[2019.12.10-13.49.02:596][919]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2019.12.10-13.49.04:134][969]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-13.49.44:961][111]BlueprintLog: New page: Compile SurvivalHUD
+[2019.12.10-13.49.45:043][111]LogUObjectHash: Compacting FUObjectHashTables data took   5.84ms
+[2019.12.10-13.49.47:525][235]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.10-13.49.47:567][235]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.10-13.49.47:567][235]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.10-13.49.47:568][235]PIE: New page: PIE session: ThirdPersonExampleMap (10 dec 2019 15:49:47)
+[2019.12.10-13.49.47:568][235]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.12.10-13.49.47:642][235]LogPlayLevel: PIE: StaticDuplicateObject took: (0.073732s)
+[2019.12.10-13.49.47:644][235]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.12.10-13.49.47:644][235]LogPlayLevel: PIE: World Init took: (0.001571s)
+[2019.12.10-13.49.47:644][235]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.075552s)
+[2019.12.10-13.49.47:730][235]LogUObjectHash: Compacting FUObjectHashTables data took   9.01ms
+[2019.12.10-13.49.47:734][235]LogInit: XAudio2 using 'Högtalare / Hörlurar (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.10-13.49.47:811][235]LogInit: FAudioDevice initialized.
+[2019.12.10-13.49.47:819][235]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.10-13.49.47:823][235]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.12.10-14.49.47
+[2019.12.10-13.49.47:824][235]LogWorld: Bringing up level for play took: 0.003618
+[2019.12.10-13.49.47:824][235]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2019.12.10-13.49.47:828][235]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1,248
+[2019.12.10-13.49.47:828][235]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.10-13.49.47:844][236]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 16
+[2019.12.10-13.49.48:051][238]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 17
+[2019.12.10-13.49.48:257][247]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 18
+[2019.12.10-13.49.48:457][259]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 19
+[2019.12.10-13.49.48:658][271]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 20
+[2019.12.10-13.49.48:857][283]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 21
+[2019.12.10-13.49.49:058][295]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 22
+[2019.12.10-13.49.49:257][307]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 23
+[2019.12.10-13.49.49:458][319]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 24
+[2019.12.10-13.49.49:658][331]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 25
+[2019.12.10-13.49.49:858][343]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 26
+[2019.12.10-13.49.50:058][355]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 27
+[2019.12.10-13.49.50:257][367]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 28
+[2019.12.10-13.49.50:458][379]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 29
+[2019.12.10-13.49.50:543][384]LogBlueprintUserMessages: [ObjectiveChange_2] true
+[2019.12.10-13.49.50:657][391]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 30
+[2019.12.10-13.49.50:858][403]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 31
+[2019.12.10-13.49.51:058][415]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 32
+[2019.12.10-13.49.51:257][427]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 33
+[2019.12.10-13.49.51:458][439]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 34
+[2019.12.10-13.49.51:658][451]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 35
+[2019.12.10-13.49.51:858][463]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 36
+[2019.12.10-13.49.52:058][475]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 37
+[2019.12.10-13.49.52:258][487]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 38
+[2019.12.10-13.49.52:458][499]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 39
+[2019.12.10-13.49.52:658][511]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 40
+[2019.12.10-13.49.52:858][523]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 41
+[2019.12.10-13.49.53:058][535]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 42
+[2019.12.10-13.49.53:258][547]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 43
+[2019.12.10-13.49.53:459][559]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 44
+[2019.12.10-13.49.53:658][571]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 45
+[2019.12.10-13.49.53:858][583]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 46
+[2019.12.10-13.49.54:058][595]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 47
+[2019.12.10-13.49.54:259][607]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 48
+[2019.12.10-13.49.54:458][619]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 49
+[2019.12.10-13.49.54:477][620]LogBlueprintUserMessages: [ObjectiveChange_2] true
+[2019.12.10-13.49.54:658][631]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 50
+[2019.12.10-13.49.54:858][643]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 51
+[2019.12.10-13.49.55:059][655]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 52
+[2019.12.10-13.49.55:258][667]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 53
+[2019.12.10-13.49.55:458][679]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 54
+[2019.12.10-13.49.55:658][691]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 55
+[2019.12.10-13.49.55:858][703]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 56
+[2019.12.10-13.49.56:059][715]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 57
+[2019.12.10-13.49.56:259][727]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 58
+[2019.12.10-13.49.56:393][735]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.10-13.49.56:393][735]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.10-13.49.56:393][735]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.12.10-13.49.56:393][735]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-13.49.56:422][735]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.10-13.49.56:422][735]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.10-13.49.56:507][735]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.10-13.49.56:517][735]LogUObjectHash: Compacting FUObjectHashTables data took   6.50ms
+[2019.12.10-13.49.56:544][736]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2019.12.10-13.49.58:323][807]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-13.50.24:460][185]BlueprintLog: New page: Compile SurvivalHUD
+[2019.12.10-13.50.24:541][185]LogUObjectHash: Compacting FUObjectHashTables data took   5.89ms
+[2019.12.10-13.50.25:113][208]LogSavePackage: Moving '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Saved/SurvivalHUDAA3BF2624DEE7D2E7878299A65AED40B.tmp' to '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Content/ThirdPersonBP/Blueprints/SurvivalHUD.uasset'
+[2019.12.10-13.50.26:768][300]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.10-13.50.26:795][300]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.10-13.50.26:795][300]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.10-13.50.26:795][300]PIE: New page: PIE session: ThirdPersonExampleMap (10 dec 2019 15:50:26)
+[2019.12.10-13.50.26:795][300]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.12.10-13.50.26:851][300]LogPlayLevel: PIE: StaticDuplicateObject took: (0.055714s)
+[2019.12.10-13.50.26:852][300]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.12.10-13.50.26:853][300]LogPlayLevel: PIE: World Init took: (0.001291s)
+[2019.12.10-13.50.26:853][300]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.057150s)
+[2019.12.10-13.50.26:916][300]LogUObjectHash: Compacting FUObjectHashTables data took   6.73ms
+[2019.12.10-13.50.26:919][300]LogInit: XAudio2 using 'Högtalare / Hörlurar (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.10-13.50.26:985][300]LogInit: FAudioDevice initialized.
+[2019.12.10-13.50.26:998][300]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.10-13.50.27:001][300]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.12.10-14.50.27
+[2019.12.10-13.50.27:001][300]LogWorld: Bringing up level for play took: 0.002724
+[2019.12.10-13.50.27:002][300]LogOnline: OSS: Creating online subsystem instance for: :Context_37
+[2019.12.10-13.50.27:005][300]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,426
+[2019.12.10-13.50.27:005][300]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.10-13.50.27:020][301]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 16
+[2019.12.10-13.50.27:220][303]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 17
+[2019.12.10-13.50.27:420][315]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 18
+[2019.12.10-13.50.27:621][327]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 19
+[2019.12.10-13.50.27:821][339]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 20
+[2019.12.10-13.50.28:021][351]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 21
+[2019.12.10-13.50.28:221][363]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 22
+[2019.12.10-13.50.28:421][375]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 23
+[2019.12.10-13.50.28:622][387]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 24
+[2019.12.10-13.50.28:821][399]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 25
+[2019.12.10-13.50.29:021][411]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 26
+[2019.12.10-13.50.29:221][423]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 27
+[2019.12.10-13.50.29:422][435]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 28
+[2019.12.10-13.50.29:621][447]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 29
+[2019.12.10-13.50.29:690][451]LogBlueprintUserMessages: [ObjectiveChange_2] true
+[2019.12.10-13.50.29:820][459]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 30
+[2019.12.10-13.50.30:021][471]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 31
+[2019.12.10-13.50.30:221][483]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 32
+[2019.12.10-13.50.30:421][495]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 33
+[2019.12.10-13.50.30:621][507]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 34
+[2019.12.10-13.50.30:822][519]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 35
+[2019.12.10-13.50.31:021][531]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 36
+[2019.12.10-13.50.31:221][543]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 37
+[2019.12.10-13.50.31:422][555]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 38
+[2019.12.10-13.50.31:574][564]LogBlueprintUserMessages: [ObjectiveChange_2] true
+[2019.12.10-13.50.31:621][567]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 39
+[2019.12.10-13.50.31:821][579]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 40
+[2019.12.10-13.50.32:021][591]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 41
+[2019.12.10-13.50.32:222][603]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 42
+[2019.12.10-13.50.32:421][615]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 43
+[2019.12.10-13.50.32:622][627]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 44
+[2019.12.10-13.50.32:708][632]LogBlueprintUserMessages: [ObjectiveChange_2] true
+[2019.12.10-13.50.32:822][639]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 45
+[2019.12.10-13.50.33:022][651]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 46
+[2019.12.10-13.50.33:221][663]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 47
+[2019.12.10-13.50.33:422][675]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 48
+[2019.12.10-13.50.33:573][684]LogBlueprintUserMessages: [ObjectiveChange_2] true
+[2019.12.10-13.50.33:622][687]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 49
+[2019.12.10-13.50.33:822][699]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 50
+[2019.12.10-13.50.34:022][711]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 51
+[2019.12.10-13.50.34:223][723]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 52
+[2019.12.10-13.50.34:422][735]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 53
+[2019.12.10-13.50.34:623][747]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 54
+[2019.12.10-13.50.34:823][759]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 55
+[2019.12.10-13.50.34:958][767]LogBlueprintUserMessages: [ObjectiveChange_2] true
+[2019.12.10-13.50.35:022][771]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 56
+[2019.12.10-13.50.35:223][783]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 57
+[2019.12.10-13.50.35:392][793]LogBlueprintUserMessages: [ObjectiveChange_2] true
+[2019.12.10-13.50.35:422][795]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 58
+[2019.12.10-13.50.35:622][807]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 59
+[2019.12.10-13.50.35:822][819]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 60
+[2019.12.10-13.50.36:023][831]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 61
+[2019.12.10-13.50.36:223][843]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 62
+[2019.12.10-13.50.36:422][855]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 63
+[2019.12.10-13.50.36:623][867]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 64
+[2019.12.10-13.50.36:674][870]LogBlueprintUserMessages: [ObjectiveChange_2] true
+[2019.12.10-13.50.36:823][879]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 65
+[2019.12.10-13.50.37:023][891]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 66
+[2019.12.10-13.50.37:222][903]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 67
+[2019.12.10-13.50.37:423][915]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 68
+[2019.12.10-13.50.37:623][927]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 69
+[2019.12.10-13.50.37:823][939]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 70
+[2019.12.10-13.50.38:023][951]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 71
+[2019.12.10-13.50.38:223][963]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 72
+[2019.12.10-13.50.38:423][975]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 73
+[2019.12.10-13.50.38:541][982]LogBlueprintUserMessages: [ObjectiveChange_2] true
+[2019.12.10-13.50.38:624][987]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 74
+[2019.12.10-13.50.38:823][999]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 75
+[2019.12.10-13.50.39:023][ 11]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 76
+[2019.12.10-13.50.39:223][ 23]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 77
+[2019.12.10-13.50.39:423][ 35]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 78
+[2019.12.10-13.50.39:623][ 47]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 79
+[2019.12.10-13.50.39:823][ 59]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 80
+[2019.12.10-13.50.40:023][ 71]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 81
+[2019.12.10-13.50.40:223][ 83]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 82
+[2019.12.10-13.50.40:422][ 95]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 83
+[2019.12.10-13.50.40:623][107]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 84
+[2019.12.10-13.50.40:822][119]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 85
+[2019.12.10-13.50.41:023][131]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 86
+[2019.12.10-13.50.41:223][143]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 87
+[2019.12.10-13.50.41:423][155]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 88
+[2019.12.10-13.50.41:623][167]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 89
+[2019.12.10-13.50.41:774][176]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.10-13.50.41:774][176]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.10-13.50.41:774][176]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.12.10-13.50.41:775][176]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-13.50.41:795][176]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.10-13.50.41:795][176]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.10-13.50.41:866][176]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.10-13.50.41:875][176]LogUObjectHash: Compacting FUObjectHashTables data took   5.07ms
+[2019.12.10-13.50.41:897][177]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2019.12.10-13.50.42:856][229]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-13.50.42:905][232]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.10-13.50.42:934][232]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.10-13.50.42:934][232]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.10-13.50.42:934][232]PIE: New page: PIE session: ThirdPersonExampleMap (10 dec 2019 15:50:42)
+[2019.12.10-13.50.42:934][232]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.12.10-13.50.42:989][232]LogPlayLevel: PIE: StaticDuplicateObject took: (0.054737s)
+[2019.12.10-13.50.42:990][232]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.12.10-13.50.42:991][232]LogPlayLevel: PIE: World Init took: (0.001228s)
+[2019.12.10-13.50.42:991][232]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.056116s)
+[2019.12.10-13.50.43:054][232]LogUObjectHash: Compacting FUObjectHashTables data took   5.11ms
+[2019.12.10-13.50.43:057][232]LogInit: XAudio2 using 'Högtalare / Hörlurar (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.10-13.50.43:125][232]LogInit: FAudioDevice initialized.
+[2019.12.10-13.50.43:135][232]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.10-13.50.43:139][232]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.12.10-14.50.43
+[2019.12.10-13.50.43:139][232]LogWorld: Bringing up level for play took: 0.003068
+[2019.12.10-13.50.43:139][232]LogOnline: OSS: Creating online subsystem instance for: :Context_38
+[2019.12.10-13.50.43:142][232]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,564
+[2019.12.10-13.50.43:143][232]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.10-13.50.43:157][233]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 16
+[2019.12.10-13.50.43:362][235]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 17
+[2019.12.10-13.50.43:563][245]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 18
+[2019.12.10-13.50.43:764][257]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 19
+[2019.12.10-13.50.43:964][269]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 20
+[2019.12.10-13.50.44:163][281]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 21
+[2019.12.10-13.50.44:364][293]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 22
+[2019.12.10-13.50.44:563][305]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 23
+[2019.12.10-13.50.44:764][317]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 24
+[2019.12.10-13.50.44:964][329]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 25
+[2019.12.10-13.50.45:164][341]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 26
+[2019.12.10-13.50.45:363][353]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 27
+[2019.12.10-13.50.45:563][365]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 28
+[2019.12.10-13.50.45:764][377]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 29
+[2019.12.10-13.50.45:964][389]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 30
+[2019.12.10-13.50.46:164][401]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 31
+[2019.12.10-13.50.46:364][413]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 32
+[2019.12.10-13.50.46:565][425]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 33
+[2019.12.10-13.50.46:766][437]LogBlueprintUserMessages: [ObjectiveChange_2] true
+[2019.12.10-13.50.46:766][437]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 34
+[2019.12.10-13.50.46:964][449]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 35
+[2019.12.10-13.50.47:164][461]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 36
+[2019.12.10-13.50.47:364][473]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 37
+[2019.12.10-13.50.47:565][485]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 38
+[2019.12.10-13.50.47:765][497]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 39
+[2019.12.10-13.50.47:965][509]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 40
+[2019.12.10-13.50.48:165][521]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 41
+[2019.12.10-13.50.48:166][521]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.10-13.50.48:166][521]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.10-13.50.48:167][521]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.12.10-13.50.48:167][521]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-13.50.48:186][521]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.10-13.50.48:186][521]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.10-13.50.48:278][521]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.10-13.50.48:288][521]LogUObjectHash: Compacting FUObjectHashTables data took   6.56ms
+[2019.12.10-13.50.48:315][522]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2019.12.10-13.50.55:492][940]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.10-13.50.55:576][940]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2019.12.10-13.50.56:007][940]LogSavePackage: Moving '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Saved/ThirdPersonExampleMap002901044DDB7A4A7C32B5A80F3CED22.tmp' to '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.12.10-13.50.56:252][940]LogSavePackage: Moving '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Saved/ThirdPersonExampleMap_BuiltDataCA72560144D466C63D4AAAB82B6A3C8C.tmp' to '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
