@@ -2556,3 +2556,8 @@ Script Stack (0 frames):
 [2019.12.10-13.39.34:597][461]LogUObjectHash: Compacting FUObjectHashTables data took   4.91ms
 [2019.12.10-13.39.34:620][462]LogPlayLevel: Display: Destroying online subsystem :Context_34
 [2019.12.10-13.39.47:088][167]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-13.42.21:653][696]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.12.10-13.42.55:805][658]LogSavePackage: Moving '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Saved/ObjectiveChange85982D0940A49E0C8600278B2460D000.tmp' to '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Content/ThirdPersonBP/Blueprints/ObjectiveChange.uasset'
+[2019.12.10-13.43.31:964][726]LogSavePackage: Moving '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Saved/ObjectiveChange1B3FF194404BCBD23DC412A1DE72BB9A.tmp' to '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Content/ThirdPersonBP/Blueprints/ObjectiveChange.uasset'
+[2019.12.10-13.43.35:448][927]BlueprintLog: New page: Compile ObjectiveChange
+[2019.12.10-13.43.35:832][927]LogUObjectHash: Compacting FUObjectHashTables data took   7.68ms
