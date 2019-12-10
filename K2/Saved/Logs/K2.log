@@ -836,3 +836,346 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.10-12.00.14:591][572]LogSavePackage: Moving '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Saved/ThirdPersonExampleMapBFFF20AB4F1911801D0110886089A8C7.tmp' to '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
 [2019.12.10-12.00.14:825][572]LogSavePackage: Moving '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Saved/ThirdPersonExampleMap_BuiltData516964B2452193B44D50EFAC8796F241.tmp' to '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
 [2019.12.10-12.00.21:158][734]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.12.10-12.00.22:781][802]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-12.01.12:646][219]BlueprintLog: New page: Compile HungerPickUp
+[2019.12.10-12.01.12:945][219]LogUObjectHash: Compacting FUObjectHashTables data took   5.07ms
+[2019.12.10-12.03.33:575][891]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-12.04.51:847][686]LogSavePackage: Moving '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Saved/ThirdPersonCharacterFDE6E3814AA0D70793BDF9A48B8AA71E.tmp' to '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.12.10-12.04.53:367][755]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.12.10-12.04.53:378][755]LogBlueprint: Error: [Compiler ThirdPersonCharacter] Spawn node  Create Widget  must have a class specified.
+[2019.12.10-12.04.53:700][755]LogUObjectHash: Compacting FUObjectHashTables data took   5.57ms
+[2019.12.10-12.05.29:932][ 36]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.12.10-12.05.40:170][294]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Blueprints/SurvivalHUD.SurvivalHUD
+[2019.12.10-12.05.53:732][925]BlueprintLog: New page: Compile SurvivalHUD
+[2019.12.10-12.05.54:076][925]LogUObjectHash: Compacting FUObjectHashTables data took   7.52ms
+[2019.12.10-12.06.43:133][288]BlueprintLog: New page: Compile HungerPickUp
+[2019.12.10-12.06.43:531][288]LogUObjectHash: Compacting FUObjectHashTables data took   6.73ms
+[2019.12.10-12.07.24:166][266]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.12.10-12.07.29:892][544]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.12.10-12.07.30:264][544]LogUObjectHash: Compacting FUObjectHashTables data took   6.64ms
+[2019.12.10-12.08.04:405][214]LogEditorTransaction: Undo Add Widget
+[2019.12.10-12.08.04:430][214]LogMaterial: Display: Missing cached shader map for material Hunger_Mat, compiling. 
+[2019.12.10-12.08.04:469][215]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2019.12.10-12.08.04:469][215]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 20
+[2019.12.10-12.08.04:469][215]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 19
+[2019.12.10-12.08.05:118][246]LogEditorTransaction: Undo Change Class Pin Value
+[2019.12.10-12.08.05:152][246]LogMaterial: Display: Missing cached shader map for material Hunger_Mat, compiling. 
+[2019.12.10-12.08.05:806][275]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2019.12.10-12.08.05:964][283]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 20
+[2019.12.10-12.08.06:281][299]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 19
+[2019.12.10-12.08.06:509][310]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 18
+[2019.12.10-12.08.06:571][313]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 17
+[2019.12.10-12.08.06:916][330]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 16
+[2019.12.10-12.08.07:189][344]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2019.12.10-12.08.07:217][345]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 14
+[2019.12.10-12.08.07:451][357]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2019.12.10-12.08.07:636][366]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 12
+[2019.12.10-12.08.07:800][374]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11
+[2019.12.10-12.08.07:883][378]LogEditorTransaction: Undo Add Node
+[2019.12.10-12.08.07:908][378]LogMaterial: Display: Missing cached shader map for material Hunger_Mat, compiling. 
+[2019.12.10-12.08.08:031][383]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2019.12.10-12.08.08:716][417]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 20
+[2019.12.10-12.08.08:803][421]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 19
+[2019.12.10-12.08.08:942][428]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 18
+[2019.12.10-12.08.09:395][450]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 17
+[2019.12.10-12.08.09:479][454]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 16
+[2019.12.10-12.08.09:542][457]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2019.12.10-12.08.10:000][478]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 14
+[2019.12.10-12.08.10:036][480]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 13
+[2019.12.10-12.08.10:083][482]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2019.12.10-12.08.10:251][490]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2019.12.10-12.08.10:521][502]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 10
+[2019.12.10-12.08.11:195][533]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2019.12.10-12.08.11:221][534]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 8
+[2019.12.10-12.08.11:477][546]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2019.12.10-12.08.12:107][575]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 6
+[2019.12.10-12.08.12:193][579]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2019.12.10-12.08.12:331][585]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 4
+[2019.12.10-12.08.13:045][618]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2019.12.10-12.08.13:200][625]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2019.12.10-12.08.13:444][637]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2019.12.10-12.08.14:280][678]MaterialEditorStats: Base pass shader: 120 instructions
+[2019.12.10-12.08.14:280][678]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2019.12.10-12.08.14:280][678]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2019.12.10-12.08.14:280][678]MaterialEditorStats: Texture samplers: 4/16
+[2019.12.10-12.08.14:280][678]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.12.10-12.08.14:280][678]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.12.10-12.08.33:025][600]LogEditorTransaction: Undo Add Widget
+[2019.12.10-12.08.33:050][600]LogMaterial: Display: Missing cached shader map for material Hunger_Mat, compiling. 
+[2019.12.10-12.08.33:088][601]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2019.12.10-12.08.33:088][601]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 20
+[2019.12.10-12.08.33:088][601]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 19
+[2019.12.10-12.08.33:614][625]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 18
+[2019.12.10-12.08.33:689][629]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 17
+[2019.12.10-12.08.33:690][629]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 16
+[2019.12.10-12.08.34:136][651]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2019.12.10-12.08.34:235][656]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 14
+[2019.12.10-12.08.34:251][657]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 13
+[2019.12.10-12.08.34:474][668]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2019.12.10-12.08.34:703][679]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2019.12.10-12.08.34:743][681]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 10
+[2019.12.10-12.08.35:391][713]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 9
+[2019.12.10-12.08.35:552][721]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2019.12.10-12.08.36:067][745]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2019.12.10-12.08.36:773][780]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 6
+[2019.12.10-12.08.36:795][781]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 5
+[2019.12.10-12.08.37:054][794]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2019.12.10-12.08.37:808][829]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2019.12.10-12.08.38:143][846]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2019.12.10-12.08.38:151][846]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2019.12.10-12.08.39:207][898]MaterialEditorStats: Base pass shader: 120 instructions
+[2019.12.10-12.08.39:207][898]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2019.12.10-12.08.39:207][898]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2019.12.10-12.08.39:207][898]MaterialEditorStats: Texture samplers: 4/16
+[2019.12.10-12.08.39:207][898]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.12.10-12.08.39:207][898]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.12.10-12.08.43:832][125]LogSlate: Last resort fallback font was requested. Font: '<unknown>', Character: '<unknown>'
+[2019.12.10-12.08.43:847][125]LogSlate: Took 0.012471 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2019.12.10-12.08.47:616][312]LogEditorTransaction: Undo Add Widget
+[2019.12.10-12.08.47:641][312]LogMaterial: Display: Missing cached shader map for material Hunger_Mat, compiling. 
+[2019.12.10-12.08.47:660][312]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2019.12.10-12.08.47:660][312]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 20
+[2019.12.10-12.08.47:660][312]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 19
+[2019.12.10-12.08.48:245][339]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 18
+[2019.12.10-12.08.48:245][339]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 17
+[2019.12.10-12.08.48:321][343]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 16
+[2019.12.10-12.08.48:884][371]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2019.12.10-12.08.48:903][372]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 14
+[2019.12.10-12.08.48:903][372]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2019.12.10-12.08.49:315][392]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 12
+[2019.12.10-12.08.49:451][399]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2019.12.10-12.08.49:659][409]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 10
+[2019.12.10-12.08.50:507][451]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2019.12.10-12.08.50:627][457]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 8
+[2019.12.10-12.08.50:866][467]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2019.12.10-12.08.51:553][501]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2019.12.10-12.08.51:592][503]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2019.12.10-12.08.51:800][513]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 4
+[2019.12.10-12.08.52:542][550]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2019.12.10-12.08.52:624][554]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2019.12.10-12.08.52:962][571]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2019.12.10-12.08.53:801][612]MaterialEditorStats: Base pass shader: 120 instructions
+[2019.12.10-12.08.53:802][612]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2019.12.10-12.08.53:802][612]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2019.12.10-12.08.53:802][612]MaterialEditorStats: Texture samplers: 4/16
+[2019.12.10-12.08.53:802][612]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.12.10-12.08.53:802][612]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.12.10-12.10.15:416][616]LogEditorTransaction: Undo Edit Y
+[2019.12.10-12.10.15:445][616]LogMaterial: Display: Missing cached shader map for material Hunger_Mat, compiling. 
+[2019.12.10-12.10.15:499][617]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2019.12.10-12.10.15:500][617]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 20
+[2019.12.10-12.10.15:500][617]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 19
+[2019.12.10-12.10.15:810][631]LogEditorTransaction: Undo Edit Y
+[2019.12.10-12.10.15:841][631]LogMaterial: Display: Missing cached shader map for material Hunger_Mat, compiling. 
+[2019.12.10-12.10.16:312][654]LogEditorTransaction: Undo Edit X
+[2019.12.10-12.10.16:344][654]LogMaterial: Display: Missing cached shader map for material Hunger_Mat, compiling. 
+[2019.12.10-12.10.16:654][669]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2019.12.10-12.10.16:737][673]LogEditorTransaction: Undo Set Vector Property
+[2019.12.10-12.10.16:768][673]LogMaterial: Display: Missing cached shader map for material Hunger_Mat, compiling. 
+[2019.12.10-12.10.17:010][685]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 21
+[2019.12.10-12.10.17:161][692]LogEditorTransaction: Undo Add Widget
+[2019.12.10-12.10.17:173][692]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 20
+[2019.12.10-12.10.17:186][692]LogMaterial: Display: Missing cached shader map for material Hunger_Mat, compiling. 
+[2019.12.10-12.10.17:299][698]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2019.12.10-12.10.17:582][712]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 20
+[2019.12.10-12.10.17:743][720]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 19
+[2019.12.10-12.10.17:823][724]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 18
+[2019.12.10-12.10.18:221][744]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 17
+[2019.12.10-12.10.18:292][747]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 16
+[2019.12.10-12.10.18:388][752]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2019.12.10-12.10.18:858][775]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 14
+[2019.12.10-12.10.18:953][780]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 13
+[2019.12.10-12.10.19:091][787]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2019.12.10-12.10.19:138][789]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11
+[2019.12.10-12.10.19:481][806]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 10
+[2019.12.10-12.10.20:334][848]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 9
+[2019.12.10-12.10.20:404][852]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2019.12.10-12.10.20:470][855]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2019.12.10-12.10.21:100][886]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2019.12.10-12.10.21:381][900]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 5
+[2019.12.10-12.10.21:462][904]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2019.12.10-12.10.22:168][939]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2019.12.10-12.10.22:180][940]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2019.12.10-12.10.22:580][960]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2019.12.10-12.10.23:238][992]MaterialEditorStats: Base pass shader: 120 instructions
+[2019.12.10-12.10.23:238][992]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2019.12.10-12.10.23:238][992]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2019.12.10-12.10.23:238][992]MaterialEditorStats: Texture samplers: 4/16
+[2019.12.10-12.10.23:238][992]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.12.10-12.10.23:238][992]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.12.10-12.10.56:205][618]LogEditorTransaction: Undo Edit Y
+[2019.12.10-12.10.56:230][618]LogMaterial: Display: Missing cached shader map for material Hunger_Mat, compiling. 
+[2019.12.10-12.10.56:269][619]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2019.12.10-12.10.56:269][619]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 20
+[2019.12.10-12.10.56:269][619]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 19
+[2019.12.10-12.10.57:126][660]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 18
+[2019.12.10-12.10.57:138][661]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 17
+[2019.12.10-12.10.57:229][665]LogEditorTransaction: Undo Edit X
+[2019.12.10-12.10.57:253][665]LogMaterial: Display: Missing cached shader map for material Hunger_Mat, compiling. 
+[2019.12.10-12.10.57:538][680]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 21
+[2019.12.10-12.10.58:008][703]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 20
+[2019.12.10-12.10.58:032][704]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 19
+[2019.12.10-12.10.58:215][713]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 18
+[2019.12.10-12.10.58:502][727]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 17
+[2019.12.10-12.10.58:634][734]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 16
+[2019.12.10-12.10.58:702][737]LogEditorTransaction: Undo Add Widget
+[2019.12.10-12.10.58:726][737]LogMaterial: Display: Missing cached shader map for material Hunger_Mat, compiling. 
+[2019.12.10-12.10.58:776][739]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 21
+[2019.12.10-12.10.59:140][758]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 20
+[2019.12.10-12.10.59:262][764]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 19
+[2019.12.10-12.10.59:360][769]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 18
+[2019.12.10-12.10.59:666][784]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 17
+[2019.12.10-12.10.59:887][795]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 16
+[2019.12.10-12.11.00:234][812]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2019.12.10-12.11.00:397][820]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 14
+[2019.12.10-12.11.00:598][829]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2019.12.10-12.11.00:721][836]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 12
+[2019.12.10-12.11.00:896][843]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11
+[2019.12.10-12.11.01:241][861]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 10
+[2019.12.10-12.11.01:947][896]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2019.12.10-12.11.02:034][900]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 8
+[2019.12.10-12.11.02:276][912]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2019.12.10-12.11.03:025][949]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2019.12.10-12.11.03:109][953]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2019.12.10-12.11.03:109][953]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 4
+[2019.12.10-12.11.03:817][988]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2019.12.10-12.11.04:266][ 10]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2019.12.10-12.11.04:286][ 11]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2019.12.10-12.11.05:523][ 72]MaterialEditorStats: Base pass shader: 120 instructions
+[2019.12.10-12.11.05:523][ 72]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2019.12.10-12.11.05:523][ 72]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2019.12.10-12.11.05:523][ 72]MaterialEditorStats: Texture samplers: 4/16
+[2019.12.10-12.11.05:523][ 72]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.12.10-12.11.05:523][ 72]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.12.10-12.11.51:544][178]LogSlate: Window 'Message' being destroyed
+[2019.12.10-12.11.58:775][468]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Blueprints/NewWidgetBlueprint.NewWidgetBlueprint
+[2019.12.10-12.12.38:465][197]LogUObjectHash: Compacting FUObjectHashTables data took   7.77ms
+[2019.12.10-12.12.40:471][197]LogSlate: Window 'Delete Assets' being destroyed
+[2019.12.10-12.12.40:495][197]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-12.12.40:536][197]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-12.12.40:586][197]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/ThirdPersonBP/Blueprints/SurvivalHUD.SurvivalHUD
+[2019.12.10-12.12.43:635][197]LogUObjectHash: Compacting FUObjectHashTables data took   6.15ms
+[2019.12.10-12.12.50:405][357]LogUObjectHash: Compacting FUObjectHashTables data took   5.92ms
+[2019.12.10-12.12.50:449][357]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/SurvivalHUD.SKEL_SurvivalHUD_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/NewWidgetBlueprint.PackageMetaData'
+[2019.12.10-12.12.50:449][357]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/SurvivalHUD.SurvivalHUD_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/NewWidgetBlueprint.PackageMetaData'
+[2019.12.10-12.12.50:449][357]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/SurvivalHUD.SurvivalHUD:EventGraph.K2Node_Event_0' ref from Metadata '/Game/ThirdPersonBP/Blueprints/NewWidgetBlueprint.PackageMetaData'
+[2019.12.10-12.12.50:449][357]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/SurvivalHUD.SurvivalHUD:EventGraph.K2Node_Event_1' ref from Metadata '/Game/ThirdPersonBP/Blueprints/NewWidgetBlueprint.PackageMetaData'
+[2019.12.10-12.12.50:449][357]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/SurvivalHUD.SurvivalHUD:EventGraph.K2Node_Event_2' ref from Metadata '/Game/ThirdPersonBP/Blueprints/NewWidgetBlueprint.PackageMetaData'
+[2019.12.10-12.12.50:496][357]LogSavePackage: Moving '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Saved/SurvivalHUD8B10003A4D5878B3AB9988A76F7440E3.tmp' to '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Content/ThirdPersonBP/Blueprints/SurvivalHUD.uasset'
+[2019.12.10-12.12.50:735][357]LogUObjectHash: Compacting FUObjectHashTables data took   4.86ms
+[2019.12.10-12.12.50:788][357]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2019.12.10-12.12.50:838][357]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2019.12.10-12.12.53:410][449]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.12.10-12.12.56:791][611]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.12.10-12.12.57:098][611]LogUObjectHash: Compacting FUObjectHashTables data took   5.27ms
+[2019.12.10-12.13.00:455][755]LogSavePackage: Moving '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Saved/ThirdPersonCharacter5316B6434259899D5A8DD79B8F996AE1.tmp' to '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.12.10-12.13.44:036][786]LogSavePackage: Moving '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Saved/SurvivalHUDA25739EA473EE6E46F0C84B4852B2E04.tmp' to '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Content/ThirdPersonBP/Blueprints/SurvivalHUD.uasset'
+[2019.12.10-12.14.09:186][936]LogUObjectHash: Compacting FUObjectHashTables data took   5.99ms
+[2019.12.10-12.14.09:579][936]LogSavePackage: Moving '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Saved/ThirdPersonExampleMap_Auto325807E024CFACF56A3075480ED06CE0C.tmp' to '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto3.umap'
+[2019.12.10-12.14.09:582][936]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.454
+[2019.12.10-12.14.09:582][936]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.454
+[2019.12.10-12.14.09:584][936]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/HungerPickUp] ([1] browsable assets)...
+[2019.12.10-12.14.09:641][936]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/HungerPickUp.HungerPickUp]
+[2019.12.10-12.14.09:641][936]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/HungerPickUp]
+[2019.12.10-12.14.09:673][936]LogSavePackage: Moving '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Saved/HungerPickUp_Auto3286D32FB4B572C368497498BBBAC8329.tmp' to '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/HungerPickUp_Auto3.uasset'
+[2019.12.10-12.14.09:674][936]LogFileHelpers: Auto-saving content packages took 0.090
+[2019.12.10-12.17.06:575][325]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/oliver.sagefors/Desktop/HungerBar.png)
+[2019.12.10-12.17.06:578][325]LogTexture: Display: Building textures: HungerBar (BGRA8, 295X49)
+[2019.12.10-12.17.06:590][325]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/oliver.sagefors/Desktop/StaminaBar.png)
+[2019.12.10-12.17.06:593][325]LogTexture: Display: Building textures: StaminaBar (BGRA8, 295X49)
+[2019.12.10-12.17.59:448][191]LogEditorTransaction: Undo Add Widget
+[2019.12.10-12.17.59:474][191]LogMaterial: Display: Missing cached shader map for material Hunger_Mat, compiling. 
+[2019.12.10-12.17.59:494][191]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2019.12.10-12.17.59:494][191]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 20
+[2019.12.10-12.17.59:494][191]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 19
+[2019.12.10-12.18.00:526][241]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 18
+[2019.12.10-12.18.00:594][244]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 17
+[2019.12.10-12.18.00:976][262]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 16
+[2019.12.10-12.18.01:520][289]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 15
+[2019.12.10-12.18.01:620][294]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 14
+[2019.12.10-12.18.01:675][297]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2019.12.10-12.18.01:922][309]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2019.12.10-12.18.02:208][323]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 11
+[2019.12.10-12.18.02:347][330]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 10
+[2019.12.10-12.18.03:230][371]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2019.12.10-12.18.03:259][373]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2019.12.10-12.18.03:600][391]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2019.12.10-12.18.04:423][432]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2019.12.10-12.18.04:462][434]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2019.12.10-12.18.04:616][442]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2019.12.10-12.18.05:346][478]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2019.12.10-12.18.05:831][502]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2019.12.10-12.18.05:832][502]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2019.12.10-12.18.06:918][556]MaterialEditorStats: Base pass shader: 120 instructions
+[2019.12.10-12.18.06:918][556]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2019.12.10-12.18.06:918][556]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2019.12.10-12.18.06:918][556]MaterialEditorStats: Texture samplers: 4/16
+[2019.12.10-12.18.06:918][556]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.12.10-12.18.06:918][556]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.12.10-12.20.49:934][280]LogSavePackage: Moving '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Saved/SurvivalHUD5C7724D943F42E1FA87A5DABB8298FDB.tmp' to '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Content/ThirdPersonBP/Blueprints/SurvivalHUD.uasset'
+[2019.12.10-12.21.45:237][ 26]LogSlate: Window 'Color Picker' being destroyed
+[2019.12.10-12.21.48:519][187]LogSlate: Window 'Color Picker' being destroyed
+[2019.12.10-12.23.21:775][761]LogSlate: Window 'Color Picker' being destroyed
+[2019.12.10-12.23.36:142][469]LogSlate: Window 'Color Picker' being destroyed
+[2019.12.10-12.23.48:019][ 55]LogSlate: Window 'Color Picker' being destroyed
+[2019.12.10-12.24.32:029][227]LogUObjectHash: Compacting FUObjectHashTables data took   6.73ms
+[2019.12.10-12.24.32:030][227]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.062
+[2019.12.10-12.24.32:031][227]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/SurvivalHUD] ([1] browsable assets)...
+[2019.12.10-12.24.32:031][227]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/SurvivalHUD]
+[2019.12.10-12.24.32:048][227]LogSavePackage: Moving '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Saved/SurvivalHUD_Auto4A358E37F44882A6258DDE7A9A191C33C.tmp' to '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/SurvivalHUD_Auto4.uasset'
+[2019.12.10-12.24.32:050][227]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/HUDasset/HungerBar] ([1] browsable assets)...
+[2019.12.10-12.24.32:051][227]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Blueprints/HUDasset/HungerBar.HungerBar]
+[2019.12.10-12.24.32:051][227]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/HUDasset/HungerBar]
+[2019.12.10-12.24.32:061][227]LogSavePackage: Moving '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Saved/HungerBar_Auto4B051363C46CAE6A00BD8FC9072E78DED.tmp' to '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/HUDasset/HungerBar_Auto4.uasset'
+[2019.12.10-12.24.32:062][227]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/HUDasset/StaminaBar] ([1] browsable assets)...
+[2019.12.10-12.24.32:064][227]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Blueprints/HUDasset/StaminaBar.StaminaBar]
+[2019.12.10-12.24.32:064][227]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/HUDasset/StaminaBar]
+[2019.12.10-12.24.32:074][227]LogSavePackage: Moving '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Saved/StaminaBar_Auto47C7705274483036F2D121A827BF7A4E2.tmp' to '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/HUDasset/StaminaBar_Auto4.uasset'
+[2019.12.10-12.24.32:075][227]LogFileHelpers: Auto-saving content packages took 0.045
+[2019.12.10-12.28.01:281][535]BlueprintLog: New page: Compile SurvivalHUD
+[2019.12.10-12.28.01:360][535]LogUObjectHash: Compacting FUObjectHashTables data took   6.06ms
+[2019.12.10-12.29.16:860][224]BlueprintLog: New page: Compile SurvivalHUD
+[2019.12.10-12.29.16:925][224]LogUObjectHash: Compacting FUObjectHashTables data took   6.81ms
+[2019.12.10-12.29.22:703][503]BlueprintLog: New page: Compile SurvivalHUD
+[2019.12.10-12.29.22:770][503]LogUObjectHash: Compacting FUObjectHashTables data took   6.17ms
+[2019.12.10-12.29.23:529][535]LogSavePackage: Moving '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Saved/SurvivalHUD432EA477450798D7F1D107A97FB98470.tmp' to '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Content/ThirdPersonBP/Blueprints/SurvivalHUD.uasset'
+[2019.12.10-12.29.24:972][602]LogSavePackage: Moving '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Saved/SurvivalHUD60C33C7E403D2D0B32A6FD979B451687.tmp' to '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Content/ThirdPersonBP/Blueprints/SurvivalHUD.uasset'
+[2019.12.10-12.29.28:421][793]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.10-12.29.28:444][793]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.10-12.29.28:444][793]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.10-12.29.28:445][793]LogPlayLevel: [PlayLevel] Compiling HungerPickUp before play...
+[2019.12.10-12.29.28:750][793]LogUObjectHash: Compacting FUObjectHashTables data took   5.59ms
+[2019.12.10-12.29.28:750][793]LogPlayLevel: PlayLevel: Blueprint regeneration took 305 ms (1 blueprints)
+[2019.12.10-12.29.28:750][793]PIE: New page: PIE session: ThirdPersonExampleMap (10 dec 2019 14:29:28)
+[2019.12.10-12.29.28:751][793]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.12.10-12.29.28:804][793]LogPlayLevel: PIE: StaticDuplicateObject took: (0.054583s)
+[2019.12.10-12.29.28:806][793]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.12.10-12.29.28:806][793]LogPlayLevel: PIE: World Init took: (0.001498s)
+[2019.12.10-12.29.28:806][793]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.056246s)
+[2019.12.10-12.29.28:856][793]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2019.12.10-12.29.28:861][793]LogInit: XAudio2 using 'Högtalare / Hörlurar (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.10-12.29.28:932][793]LogInit: FAudioDevice initialized.
+[2019.12.10-12.29.28:939][793]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.10-12.29.28:942][793]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.12.10-13.29.28
+[2019.12.10-12.29.28:943][793]LogWorld: Bringing up level for play took: 0.002855
+[2019.12.10-12.29.28:943][793]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2019.12.10-12.29.28:946][793]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,379
+[2019.12.10-12.29.28:946][793]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.10-12.29.37:787][370]LogBlueprintUserMessages: [HungerPickUp_2] 100
+[2019.12.10-12.29.48:545][121]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 75
+[2019.12.10-12.29.54:501][542]LogBlueprintUserMessages: [HungerPickUp2_5] 100
+[2019.12.10-12.30.08:559][473]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 75
+[2019.12.10-12.30.09:061][505]LogBlueprintUserMessages: [HungerPickUp2_5] 100
+[2019.12.10-12.30.12:596][730]LogBlueprintUserMessages: [HungerPickUp2_5] 100
+[2019.12.10-12.30.17:401][ 59]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.10-12.30.17:402][ 59]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.10-12.30.17:402][ 59]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.12.10-12.30.17:402][ 59]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-12.30.17:441][ 59]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.10-12.30.17:441][ 59]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.10-12.30.17:524][ 59]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.10-12.30.17:536][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   6.36ms
+[2019.12.10-12.30.17:568][ 60]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.12.10-12.30.23:546][250]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-12.30.27:893][462]LogSavePackage: Moving '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Saved/SurvivalHUDCB1BDC5A47FD46CC4CB4AAB0857F5374.tmp' to '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Content/ThirdPersonBP/Blueprints/SurvivalHUD.uasset'
