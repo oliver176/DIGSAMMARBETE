@@ -4094,3 +4094,163 @@ Script Stack (0 frames):
 [2019.12.13-10.26.12:910][949]LogHttp: Warning: 000001B4197FC400: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
 [2019.12.13-10.26.12:910][949]LogHttp: Warning: 000001B4197FC400: libcurl info message cache 4 (Closing connection 245)
 [2019.12.13-10.26.12:993][950]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCCBA1903-4C0F-BBA0-9695-5C8C3B4FFDF6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=b9bc14924c4b61b3ae60228e8bfa2b3a%7C28be7c3ba24c45deb3c3700d70469af5%7C6e29cf8e-fcb9-4c16-bbe2-61146410849c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.12.13-10.34.43:231][916]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-10.34.47:209][919]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/oliver.sagefors/Desktop/batteri.png)
+[2019.12.13-10.34.47:213][919]LogTexture: Display: Building textures: batteri (BGRA8, 161X62)
+[2019.12.13-10.34.47:233][919]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/oliver.sagefors/Desktop/batterifyll.png)
+[2019.12.13-10.34.47:236][919]LogTexture: Display: Building textures: batterifyll (BGRA8, 161X62)
+[2019.12.13-10.35.04:039][642]LogUObjectHash: Compacting FUObjectHashTables data took   9.19ms
+[2019.12.13-10.35.04:984][642]LogSlate: Window 'Save Content' being destroyed
+[2019.12.13-10.35.05:023][642]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/batteri" FILE="../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Content/Textures/batteri.uasset" SILENT=true
+[2019.12.13-10.35.05:035][642]LogSavePackage: Moving '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Saved/batteri8167F0724337675FDA1B9E96AC449B19.tmp' to '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Content/Textures/batteri.uasset'
+[2019.12.13-10.35.05:049][642]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/batterifyll" FILE="../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Content/Textures/batterifyll.uasset" SILENT=true
+[2019.12.13-10.35.05:060][642]LogSavePackage: Moving '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Saved/batterifyllEBF2019A4BD0523C1F901AB21FF6B597.tmp' to '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Content/Textures/batterifyll.uasset'
+[2019.12.13-10.35.21:954][186]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/oliver.sagefors/Desktop/batteri.png)
+[2019.12.13-10.35.21:957][186]LogTexture: Display: Building textures: batteri (BGRA8, 161X62)
+[2019.12.13-10.35.21:969][186]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/oliver.sagefors/Desktop/batterifyll.png)
+[2019.12.13-10.35.21:973][186]LogTexture: Display: Building textures: batterifyll (BGRA8, 161X62)
+[2019.12.13-10.39.40:337][136]BlueprintLog: New page: Compile SurvivalHUD
+[2019.12.13-10.39.40:445][136]LogUObjectHash: Compacting FUObjectHashTables data took   8.52ms
+[2019.12.13-10.39.41:357][165]LogSavePackage: Moving '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Saved/SurvivalHUD9396EAFC40FB9D7BC25A85A162AB87A5.tmp' to '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Content/ThirdPersonBP/Blueprints/SurvivalHUD.uasset'
+[2019.12.13-10.39.47:215][451]LogUObjectHash: Compacting FUObjectHashTables data took   7.09ms
+[2019.12.13-10.39.47:679][451]LogSavePackage: Moving '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Saved/ThirdPersonExampleMap_Auto378C246CA488761D57EFB5C84D17EB611.tmp' to '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto3.umap'
+[2019.12.13-10.39.47:683][451]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.543
+[2019.12.13-10.39.47:683][451]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.543
+[2019.12.13-10.39.47:687][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/HUDasset/batteri] ([1] browsable assets)...
+[2019.12.13-10.39.47:693][451]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Blueprints/HUDasset/batteri.batteri]
+[2019.12.13-10.39.47:693][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/HUDasset/batteri]
+[2019.12.13-10.39.47:703][451]LogSavePackage: Moving '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Saved/batteri_Auto37CD1EA3F45A1C82678CF19AA177AD21E.tmp' to '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/HUDasset/batteri_Auto3.uasset'
+[2019.12.13-10.39.47:705][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/HUDasset/batterifyll] ([1] browsable assets)...
+[2019.12.13-10.39.47:707][451]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Blueprints/HUDasset/batterifyll.batterifyll]
+[2019.12.13-10.39.47:707][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/HUDasset/batterifyll]
+[2019.12.13-10.39.47:716][451]LogSavePackage: Moving '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Saved/batterifyll_Auto3AB7CB2A24ECBAE79A1434097840949B0.tmp' to '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/HUDasset/batterifyll_Auto3.uasset'
+[2019.12.13-10.39.47:717][451]LogFileHelpers: Auto-saving content packages took 0.031
+[2019.12.13-10.40.29:909][585]LogSlate: Window 'Color Picker' being destroyed
+[2019.12.13-10.40.53:564][782]BlueprintLog: New page: Compile SurvivalHUD
+[2019.12.13-10.40.53:657][782]LogUObjectHash: Compacting FUObjectHashTables data took   6.16ms
+[2019.12.13-10.40.54:841][821]LogSavePackage: Moving '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Saved/SurvivalHUD7498E7F54DBFE954EA5F1EB6D9BA506E.tmp' to '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Content/ThirdPersonBP/Blueprints/SurvivalHUD.uasset'
+[2019.12.13-10.42.49:180][356]BlueprintLog: New page: Compile SurvivalHUD
+[2019.12.13-10.42.49:272][356]LogUObjectHash: Compacting FUObjectHashTables data took   7.60ms
+[2019.12.13-10.42.49:823][377]LogSavePackage: Moving '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Saved/SurvivalHUDF08D448846DE7B45F226B4888BC6BC7D.tmp' to '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Content/ThirdPersonBP/Blueprints/SurvivalHUD.uasset'
+[2019.12.13-10.42.52:702][534]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.13-10.42.52:748][534]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.13-10.42.52:748][534]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.13-10.42.52:748][534]PIE: New page: PIE session: ThirdPersonExampleMap (13 dec 2019 12:42:52)
+[2019.12.13-10.42.52:749][534]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.12.13-10.42.52:825][534]LogPlayLevel: PIE: StaticDuplicateObject took: (0.075913s)
+[2019.12.13-10.42.52:827][534]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.12.13-10.42.52:827][534]LogPlayLevel: PIE: World Init took: (0.002045s)
+[2019.12.13-10.42.52:827][534]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.078169s)
+[2019.12.13-10.42.52:921][534]LogUObjectHash: Compacting FUObjectHashTables data took   9.60ms
+[2019.12.13-10.42.52:926][534]LogInit: XAudio2 using 'Högtalare / Hörlurar (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.13-10.42.53:038][534]LogInit: FAudioDevice initialized.
+[2019.12.13-10.42.53:059][534]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.13-10.42.53:070][534]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.12.13-11.42.53
+[2019.12.13-10.42.53:072][534]LogWorld: Bringing up level for play took: 0.009475
+[2019.12.13-10.42.53:072][534]LogOnline: OSS: Creating online subsystem instance for: :Context_54
+[2019.12.13-10.42.53:084][534]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap −0,068
+[2019.12.13-10.42.53:085][534]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.13-10.43.28:428][636]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.13-10.43.28:429][636]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-10.43.28:429][636]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.12.13-10.43.28:430][636]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.13-10.43.28:459][636]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.13-10.43.28:459][636]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.13-10.43.28:569][636]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-10.43.28:583][636]LogUObjectHash: Compacting FUObjectHashTables data took   7.52ms
+[2019.12.13-10.43.28:612][637]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2019.12.13-10.50.24:818][  4]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2019.12.13-10.50.25:279][  4]LogSavePackage: Moving '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Saved/ThirdPersonExampleMap_Auto42277DEB547E39D9929A735939FB16065.tmp' to '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto4.umap'
+[2019.12.13-10.50.25:282][  4]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.540
+[2019.12.13-10.50.25:282][  4]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.540
+[2019.12.13-10.53.59:634][665]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-10.54.05:506][758]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/oliver.sagefors/Desktop/inventorybar.png)
+[2019.12.13-10.54.05:511][758]LogTexture: Display: Building textures: inventorybar (AutoDXT, 700X156)
+[2019.12.13-10.54.09:752][ 67]LogSavePackage: Moving '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Saved/inventorybarADC0FA164AB9B6F08FC7ADB9B6AD44E7.tmp' to '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Content/ThirdPersonBP/Blueprints/HUDasset/inventorybar.uasset'
+[2019.12.13-10.55.53:016][153]LogEditorTransaction: Undo Set Vector Property
+[2019.12.13-10.55.53:047][153]LogMaterial: Display: Missing cached shader map for material Hunger_Mat, compiling. 
+[2019.12.13-10.55.53:073][153]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2019.12.13-10.55.53:073][153]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 20
+[2019.12.13-10.55.53:073][153]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 19
+[2019.12.13-10.55.53:077][153]LogMaterial: Display: Missing cached shader map for material blixtMat, compiling. 
+[2019.12.13-10.55.54:273][219]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 39
+[2019.12.13-10.55.54:794][250]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 38
+[2019.12.13-10.55.55:303][281]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 37
+[2019.12.13-10.55.55:516][294]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 36
+[2019.12.13-10.55.55:748][308]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 35
+[2019.12.13-10.55.56:103][327]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 34
+[2019.12.13-10.55.56:221][335]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 33
+[2019.12.13-10.55.56:344][343]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 32
+[2019.12.13-10.55.57:017][384]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 31
+[2019.12.13-10.55.57:929][439]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 30
+[2019.12.13-10.55.58:079][448]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 29
+[2019.12.13-10.55.58:146][452]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 28
+[2019.12.13-10.55.58:907][497]BlueprintLog: New page: Compile SurvivalHUD
+[2019.12.13-10.55.59:011][497]LogUObjectHash: Compacting FUObjectHashTables data took   8.41ms
+[2019.12.13-10.55.59:175][499]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 27
+[2019.12.13-10.55.59:350][504]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 26
+[2019.12.13-10.55.59:438][509]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 25
+[2019.12.13-10.56.00:550][570]LogSavePackage: Moving '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Saved/SurvivalHUDEE24C9BB46F8E17FEA4077AEAEA26FD7.tmp' to '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Content/ThirdPersonBP/Blueprints/SurvivalHUD.uasset'
+[2019.12.13-10.56.00:583][571]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 24
+[2019.12.13-10.56.01:128][605]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 23
+[2019.12.13-10.56.01:565][631]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 22
+[2019.12.13-10.56.02:113][664]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 21
+[2019.12.13-10.56.02:547][690]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 20
+[2019.12.13-10.56.02:562][691]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 19
+[2019.12.13-10.56.02:587][692]MaterialEditorStats: Base pass shader: 120 instructions
+[2019.12.13-10.56.02:587][692]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2019.12.13-10.56.02:587][692]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2019.12.13-10.56.02:587][692]MaterialEditorStats: Texture samplers: 4/16
+[2019.12.13-10.56.02:587][692]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.12.13-10.56.02:587][692]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.12.13-10.56.02:808][705]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 18
+[2019.12.13-10.56.03:347][738]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 17
+[2019.12.13-10.56.03:398][741]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 16
+[2019.12.13-10.56.04:078][782]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 15
+[2019.12.13-10.56.04:628][815]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 14
+[2019.12.13-10.56.04:895][831]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2019.12.13-10.56.05:112][844]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 12
+[2019.12.13-10.56.05:147][846]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2019.12.13-10.56.05:479][866]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 10
+[2019.12.13-10.56.06:411][922]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2019.12.13-10.56.06:669][936]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 8
+[2019.12.13-10.56.07:081][961]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2019.12.13-10.56.08:497][ 46]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2019.12.13-10.56.08:731][ 60]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2019.12.13-10.56.08:895][ 70]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 4
+[2019.12.13-10.56.10:047][139]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2019.12.13-10.56.10:129][144]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2019.12.13-10.56.10:630][174]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2019.12.13-10.56.11:604][232]MaterialEditorStats: Base pass shader: 120 instructions
+[2019.12.13-10.56.11:604][232]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2019.12.13-10.56.11:604][232]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2019.12.13-10.56.11:604][232]MaterialEditorStats: Texture samplers: 4/16
+[2019.12.13-10.56.11:604][232]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.12.13-10.56.11:604][232]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.12.13-10.58.34:772][416]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'MyBlueprint'
+[2019.12.13-10.58.55:936][651]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'MyBlueprint'
+[2019.12.13-10.59.00:942][943]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'MyBlueprint'
+[2019.12.13-10.59.05:840][224]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'MyBlueprint'
+[2019.12.13-11.00.25:727][926]LogUObjectHash: Compacting FUObjectHashTables data took   8.00ms
+[2019.12.13-11.00.26:169][926]LogSavePackage: Moving '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Saved/ThirdPersonExampleMap_Auto5A30D72504E7E38F1AC0D698FD82C76CC.tmp' to '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.umap'
+[2019.12.13-11.00.26:173][926]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.528
+[2019.12.13-11.00.26:174][926]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.528
+[2019.12.13-11.00.26:177][926]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2019.12.13-11.00.26:231][926]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2019.12.13-11.00.26:231][926]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2019.12.13-11.00.26:312][926]LogSavePackage: Moving '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Saved/ThirdPersonCharacter_Auto556F92B234468763525419F82A1185163.tmp' to '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto5.uasset'
+[2019.12.13-11.00.26:313][926]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/SurvivalHUD] ([1] browsable assets)...
+[2019.12.13-11.00.26:313][926]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/SurvivalHUD]
+[2019.12.13-11.00.26:347][926]LogSavePackage: Moving '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Saved/SurvivalHUD_Auto5E8D0D7FC47C74091D2B9EABF4078CE79.tmp' to '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/SurvivalHUD_Auto5.uasset'
+[2019.12.13-11.00.26:348][926]LogFileHelpers: Auto-saving content packages took 0.172
+[2019.12.13-11.00.41:322][809]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.12.13-11.00.41:731][809]LogUObjectHash: Compacting FUObjectHashTables data took   6.26ms
+[2019.12.13-11.00.45:883][994]LogUObjectHash: Compacting FUObjectHashTables data took   6.83ms
+[2019.12.13-11.00.46:972][994]LogSlate: Window 'Save Content' being destroyed
+[2019.12.13-11.00.47:013][994]LogSavePackage: Moving '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Saved/batteri4B33B2F1468948D180B3CDA79EAE51F3.tmp' to '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Content/ThirdPersonBP/Blueprints/HUDasset/batteri.uasset'
+[2019.12.13-11.00.47:042][994]LogSavePackage: Moving '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Saved/batterifyll878E1DF54818AF6A54EF5CBC6D2B04DD.tmp' to '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Content/ThirdPersonBP/Blueprints/HUDasset/batterifyll.uasset'
+[2019.12.13-11.00.47:102][994]LogSavePackage: Moving '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Saved/SurvivalHUDB4CD29724901B9A8FE85F89A38EB0A72.tmp' to '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Content/ThirdPersonBP/Blueprints/SurvivalHUD.uasset'
+[2019.12.13-11.00.47:220][994]LogSavePackage: Moving '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Saved/ThirdPersonCharacter187F95CB457DC0EA493965B81708DA9F.tmp' to '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.12.13-11.00.47:295][994]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2019.12.13-11.00.47:712][994]LogSavePackage: Moving '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Saved/ThirdPersonExampleMap1C01117D4AE5BD160FFE85B86D372A44.tmp' to '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.12.13-11.00.47:746][994]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.514
