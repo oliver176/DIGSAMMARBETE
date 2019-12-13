@@ -4085,3 +4085,12 @@ Script Stack (0 frames):
 [2019.12.13-09.38.14:482][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
 [2019.12.13-09.38.14:924][ 19]LogSavePackage: Moving '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Saved/ThirdPersonExampleMap6DADA2584BA96FC0BE698E9E2ACB02E1.tmp' to '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
 [2019.12.13-09.38.14:961][ 19]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.550
+[2019.12.13-10.26.09:719][947]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2019.12.13-10.26.12:910][949]LogHttp: Warning: 000001B4197FC400: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCCBA1903-4C0F-BBA0-9695-5C8C3B4FFDF6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=b9bc14924c4b61b3ae60228e8bfa2b3a%7C28be7c3ba24c45deb3c3700d70469af5%7C6e29cf8e-fcb9-4c16-bbe2-61146410849c&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.12.13-10.26.12:910][949]LogHttp: Warning: 000001B4197FC400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.12.13-10.26.12:910][949]LogHttp: Warning: 000001B4197FC400: libcurl info message cache 0 (Connection 244 seems to be dead!)
+[2019.12.13-10.26.12:910][949]LogHttp: Warning: 000001B4197FC400: libcurl info message cache 1 (Closing connection 244)
+[2019.12.13-10.26.12:910][949]LogHttp: Warning: 000001B4197FC400: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.12.13-10.26.12:910][949]LogHttp: Warning: 000001B4197FC400: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.12.13-10.26.12:910][949]LogHttp: Warning: 000001B4197FC400: libcurl info message cache 4 (Closing connection 245)
+[2019.12.13-10.26.12:993][950]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCCBA1903-4C0F-BBA0-9695-5C8C3B4FFDF6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=b9bc14924c4b61b3ae60228e8bfa2b3a%7C28be7c3ba24c45deb3c3700d70469af5%7C6e29cf8e-fcb9-4c16-bbe2-61146410849c&AppEnvironment=datacollector-binary&UploadType=eteventstream
