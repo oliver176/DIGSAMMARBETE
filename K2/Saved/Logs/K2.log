@@ -4254,3 +4254,7 @@ Script Stack (0 frames):
 [2019.12.13-11.00.47:295][994]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
 [2019.12.13-11.00.47:712][994]LogSavePackage: Moving '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Saved/ThirdPersonExampleMap1C01117D4AE5BD160FFE85B86D372A44.tmp' to '../../../../../../Users/oliver.sagefors/Documents/GitHub/DIGSAMMARBETE/K2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
 [2019.12.13-11.00.47:746][994]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.514
+[2019.12.13-11.02.14:153][801]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.12.13-11.02.33:188][213]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/WoodPickUp.WoodPickUp
+[2019.12.13-11.02.48:242][848]BlueprintLog: New page: Compile WoodPickUp
+[2019.12.13-11.02.48:604][848]LogUObjectHash: Compacting FUObjectHashTables data took   6.48ms
